@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/59/b2/34/59b2349684d902730f710b65f05ecb80.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    overflow-y: hidden;
+}
+
+.altura {
+    height: 100vh;
+}
+
+.imagem {
+    display: none;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    transition: 0.2s ease-in;
+}
+
+
+p:hover {
+    color: rgb(0, 153, 255);
+}
+
